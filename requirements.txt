@@ -1,0 +1,9 @@
+asreview==0.12
+asreview-visualization==0.2.1
+h5py==2.10.0
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==1.0.5
+pathlib==1.0.1
+scikit-learn==0.23.1
+sklearn==0.0
